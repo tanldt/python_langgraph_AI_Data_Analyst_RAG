@@ -1,0 +1,7 @@
+langgraph>=0.2.60,<2
+langchain-openai>=0.3,<2
+streamlit>=1.38,<2
+pandas>=2.2,<3
+pypdf>=5,<7
+python-dotenv>=1,<2
+pytest>=8,<10
